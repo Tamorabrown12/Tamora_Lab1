@@ -11,5 +11,8 @@ int main()
     cout << "Hello from Tamora Brown! This is my first Git commit." << endl;
     cout << "Git makes collaboration easy!" << endl; 
     cout << "Changes made by Kennedy" << endl;
+
+    cout << "Lab 1 completed on April 13, 2026!" << endl;
+
     cout << "Feature by Tamora: Branching is awesome!" << endl;
 }
