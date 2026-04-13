@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Tamora Brown 
 - Kennedy Nana Mireku
+
+## Changes Made by Tamora: Added a feature greeting.
