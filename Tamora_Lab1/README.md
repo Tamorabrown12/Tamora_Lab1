@@ -9,7 +9,8 @@ This is a simple C++ console application created for Git Lab 1.
 - How to collaborate using GitHub
 
 ## Team Members
-- Tamora Brown 
+- Tamora Brown - Feature: student info display 
 - Kennedy Nana Mireku
 
 ## Changes Made by Tamora: Added a feature greeting.
+
