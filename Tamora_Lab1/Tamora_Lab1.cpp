@@ -15,4 +15,6 @@ int main()
     cout << "Lab 1 completed on April 13, 2026!" << endl;
 
     cout << "Feature by Tamora: Branching is awesome!" << endl;
+
+    cout << "Student ID: S00462862 | Name: Tamora Brown" << endl; 
 }
