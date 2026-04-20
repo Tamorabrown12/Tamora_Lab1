@@ -16,5 +16,11 @@ int main()
 
     cout << "Feature by Tamora: Branching is awesome!" << endl;
 
-    cout << "Student ID: S00462862 | Name: Tamora Brown" << endl; 
+    cout << "Student ID: S00462862 | Name: Tamora Brown" << endl;
+}
+
+void myFavoriteNumber()
+{
+    int fav = 7; 
+    cout << "My favorite number is: " << fav << endl; 
 }
